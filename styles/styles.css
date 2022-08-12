@@ -44,6 +44,8 @@ body {
     flex-direction: column;
     background-color: rgb(17, 119, 17);
     margin: 5px;
+    margin-top: 50px;
+
 }
 
 .container1 {
